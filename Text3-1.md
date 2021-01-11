@@ -1,50 +1,47 @@
-﻿Lernen, lernen, immer lernen
+﻿# Lernen, lernen, immer lernen
 
-Hallo, wie geht's?
+Petra: Hallo, wie geht's?
 
-Danke, gut. Und dir?
+Wang Hongliang: Danke, gut. Und dir?
 
-Auch gut. Was machst du denn hier?
+Petra: Auch gut. Was machst du denn hier?
 
-Ich habe Deutschunterricht. Jetzt machen wir gerade Pause.
+Wang Hongliang: Ich habe Deutschunterricht. Jetzt machen wir gerade Pause.
 
-Hast du täglich Unterricht?
+Petra: Hast du täglich Unterricht?
 
-Ja. immer am Vormittag von acht bis Viertel vor zwölf.
+Wang Hongliang: Ja. immer am Vormittag von acht bis Viertel vor zwölf.
 
-Um acht Uhr habt ihr schon Unterricht? So früh? Wann stehst du
-
+Petra: Um acht Uhr habt ihr schon Unterricht? So früh? Wann stehst du
 denn dann auf?
 
-Um Viertel nach sechs. Dann treibe ich Sport. Ich laufe ...
+Wang Hongliang: Um Viertel nach sechs. Dann treibe ich Sport. Ich laufe ...
 
-So aktiv? Und nicht nur beim Sport, auch dein Deustch ist jetzt viel besser'.
+Petra: So aktiv? Und nicht nur beim Sport, auch dein Deustch ist jetzt viel besser'.
 
-Danke. ich lerne auch sehr viel. Die Lehrerin spricht im Unterricht
-
+Wang Hongliang: Danke. ich lerne auch sehr viel. Die Lehrerin spricht im Unterricht
 nur Deutsch, Ich verstehe sie immer besser. Wohin fährst du
-
 jetzt?
 
-Ich besuche eie Vorlesung, aber erst um halb zwölf.
+Petra: Ich besuche eie Vorlesung, aber erst um halb zwölf.
 
-Ach so,um halb zwölf. Um wie viel Uhr isst du dann zu Mittag?
+Wang Hongliang: Ach so, um halb zwölf. Um wie viel Uhr isst du dann zu Mittag?
 
-Ich frühstücke meistens gut und esse nicht zu Mittag. Sag mal, hast du heute Abend Zeit? Thomas gibt eine Party.
+Petra: Ich frühstücke meistens gut und esse nicht zu Mittag. Sag mal, hast du heute Abend Zeit? Thomas gibt eine Party.
 
-Thomas?
+Wang Hongliang: Thomas?
 
-Kennst du ihn nicht? Er ist neu hier.
+Petra: Kennst du ihn nicht? Er ist neu hier.
 
-Nein, ich kenne ihn nicht. Ich habe leider keine Zeit. Ich fahre nach Hause und lerne Deutsch. Am Donnerstag schreiben wir eine Prüfung.
+Wang Hongliang: Nein, ich kenne ihn nicht. Ich habe leider keine Zeit. Ich fahre nach Hause und lerne Deutsch. Am Donnerstag schreiben wir eine Prüfung.
 
-Und dann? Hast du am Freitag Zeit? Trinken wir zusammen Kaffee!
+Petra: Und dann? Hast du am Freitag Zeit? Trinken wir zusammen Kaffee!
 
-Nein, das geht auch nicht. Am Freitag gibt es immer Hausaufgaben.
+Wang Hongliang: Nein, das geht auch nicht. Am Freitag gibt es immer Hausaufgaben.
 
-Lernen, lernen, immer lernen. Du hast nie Zeit für das Leben und für die Freunde. Du liest und liest.
+Petra: Lernen, lernen, immer lernen. Du hast nie Zeit für das Leben und für die Freunde. Du liest und liest.
 
-Schläfst du eigentlich noch? Isst du eigentlich noch?
+Wang Hongliang: Schläfst du eigentlich noch? Isst du eigentlich noch?
 
-Oh, wie spät ist es jetzt? Was? Schon fünf vor elf? Der Unterricht beginnt.
+Petra: Oh, wie spät ist es jetzt? Was? Schon fünf vor elf? Der Unterricht beginnt.
 

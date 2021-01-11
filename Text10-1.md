@@ -1,4 +1,4 @@
-Auskunft auf der Staße
+# Auskunft auf der Staße
 
 Wang: Engtschuldigen Sie, wie komme ich zur Stadtbibliothek?
 

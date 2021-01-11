@@ -1,77 +1,42 @@
-﻿Meine Oma hat Geburtstag
+﻿# Meine Oma hat Geburtstag
 
-
-
-Dialog 1 (Ein Telefongespr
-
-
+## Dialog 1 (Ein Telefongespräch)
 
 Das Telefon klingelt. 
 
-
-
 Maria: Lehmann.
-
-
 
 Anna: Oma, ich bin's.
 
-
-
 Maria: Hallo, Anna!
-
-
 
 Anna: Hallo, Oma! Mama sagt, du hast bald Geburtstag, du bist schon 60, nicht wahr?
 
-
-
 Maria: Ja, mein Schatz, warum fragst du? Hast du etwas vor?
-
-
 
 Anna: Mama und Papa planen gerade deine Geburtstagsfeier. Wir machen ei
 
-
-
 Maria: Oh, das ist aber li
-
-
 
 Anna: Ja, einen Moment bitte.
 
 
 
-
-
-
-
 Lena: Hallo, Mama, wir machen am Samsta
-
-
 
 Maria: Ja, gerne! Da habe ich nichts vor.
 
-
-
 Lena: Wir laden mein
-
-
 
 Maria: Ich koche was für euch und...
 
-
-
 Lena: Nein. Du bist das Geburtstagskind und wir mac
-
-
 
 Maria: Aber ich mache gerne mit. Übrigens, machen wir 
 
-
 Lena: Ja, eine gute Idee!
 
-Dialog 2 (4 Tage später)
+## Dialog 2 (4 Tage später)
 
 Luis: Anna, was ist denn das? Oh, ein Familienfoto!
 
