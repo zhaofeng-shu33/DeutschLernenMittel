@@ -10,20 +10,20 @@ Wang Hongliang: Ich habe Deutschunterricht. Jetzt machen wir gerade Pause.
 
 Petra: Hast du täglich Unterricht?
 
-Wang Hongliang: Ja. immer am Vormittag von acht bis Viertel vor zwölf.
+Wang Hongliang: Ja, immer am Vormittag von acht bis Viertel vor zwölf.
 
 Petra: Um acht Uhr habt ihr schon Unterricht? So früh? Wann stehst du
 denn dann auf?
 
 Wang Hongliang: Um Viertel nach sechs. Dann treibe ich Sport. Ich laufe ...
 
-Petra: So aktiv? Und nicht nur beim Sport, auch dein Deustch ist jetzt viel besser'.
+Petra: So aktiv? Und nicht nur beim Sport, auch dein Deutsch ist jetzt viel besser'.
 
-Wang Hongliang: Danke. ich lerne auch sehr viel. Die Lehrerin spricht im Unterricht
+Wang Hongliang: Danke, ich lerne auch sehr viel. Die Lehrerin spricht im Unterricht
 nur Deutsch, Ich verstehe sie immer besser. Wohin fährst du
 jetzt?
 
-Petra: Ich besuche eie Vorlesung, aber erst um halb zwölf.
+Petra: Ich besuche eine Vorlesung, aber erst um halb zwölf.
 
 Wang Hongliang: Ach so, um halb zwölf. Um wie viel Uhr isst du dann zu Mittag?
 

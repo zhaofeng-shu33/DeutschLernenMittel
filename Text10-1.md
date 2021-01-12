@@ -1,6 +1,6 @@
-# Auskunft auf der Staße
+# Auskunft auf der Straße
 
-Wang: Engtschuldigen Sie, wie komme ich zur Stadtbibliothek?
+Wang: Entschuldigen Sie, wie komme ich zur Stadtbibliothek?
 
 Passant 1: Tut mir Leid, ich bin auch fremd hier. Das weiß ich auch nicht. 
 
@@ -28,7 +28,7 @@ Passant 2: Nein, da ist die Bahnstation „Karlsplatz“. Sie müssen noch 100 M
 
 Wang: Na ja, gar nicht so einfach. Ich frage da später lieber noch mal. Aber ich sehe hier keine Busse. Wo finde ich die Bushaltestelle?
 
-Passant 2: Das ist einfach. Hier an der Kreuzung biegen Sie rechts ab in die Schillerstraße. Gehen Sie die Straße entlang, zuerst über eine Brücke, dann durch das Stadttor, dannach an einem Theater vorbei. Auf der linken Seite sehen Sie schließlich eine Post. Die Haltestelle ist gleich vor der Post.
+Passant 2: Das ist einfach. Hier an der Kreuzung biegen Sie rechts ab in die Schillerstraße. Gehen Sie die Straße entlang, zuerst über eine Brücke, dann durch das Stadttor, danach an einem Theater vorbei. Auf der linken Seite sehen Sie schließlich eine Post. Die Haltestelle ist gleich vor der Post.
 
 Wang: Ist es weit? Wie lange muss ich gehen?
 

@@ -1,6 +1,6 @@
 ﻿# Beim Arzt
 
-Szene 1: Einen Termin machen
+## Szene 1: Einen Termin machen
 
 Sprechstundenhilfe: Praxis Dr. Laun. Guten Tag.
 
@@ -20,7 +20,7 @@ Müller: Lena Müller.
 
 
 
-Szene 2: Im Wartezimmer
+## Szene 2: Im Wartezimmer
 
 Müller: Guten Tag. Mein Name ist Lena Müller. Ich habe um 10.30 Uhr einen Termin. Hier ist meine Versichertenkarte.
 
@@ -46,7 +46,7 @@ Lorenz: Oh, ich bin dran. Vielleicht treffen wir uns ja mal wieder. Gute Besseru
 
 
 
-Szene 3: Im Sprechzimmer
+## Szene 3: Im Sprechzimmer
 
 Arzt: Guten Tag, Frau Müller, nehmen Sie bitte Platz. Was fehlt Ihnen denn?
 
