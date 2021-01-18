@@ -18,7 +18,7 @@ Wang Hongliang: Kein Problem. Ich fahre sofort zu Ihnen.
 
 Frau Schmidt: Gut. Dann bis gleich.
 
-Wang Hongliang: Bis gleich
+Wang Hongliang: Bis gleich.
 
 Wang Hongliang: Guten Tag. Ich bin Hongliang Wang. Bin ich richtig bei Schmidts?
 
@@ -32,11 +32,11 @@ Wang Hongliang: Danke.
 
 Nun besichtigt Wang Hongliang die Wohnung.
 
-In der Wohnung gibt es ein Wohnzimmer, ein Schlafzimmer, ein Arbeitszimmer, ein Bad, eine Küche und Flur. Das Schlafzimmer und die Küche sind renoviert, aber ziemlich klein. Das Bad ist zwar nicht groß, aber modern. Das Wohnzimmer ist hell, denn es gibt da zwei Fenster und einen Balkon nach Süden. In dem Arbeitszimmer gibt es ein Telefon und einen Internetanschluss. Vor dem Haus ist die Lindbergstraße und hinter dem Haus ist ein Parkplatz.
+In der Wohnung gibt es ein Wohnzimmer, ein Schlafzimmer, ein Arbeitszimmer, ein Bad, eine Küche und einen Flur. Das Schlafzimmer und die Küche sind renoviert, aber ziemlich klein. Das Bad ist zwar nicht groß, aber modern. Das Wohnzimmer ist hell, denn es gibt da zwei Fenster und einen Balkon nach Süden. In dem Arbeitszimmer gibt es ein Telefon und einen Internetanschluss. Vor dem Haus ist die Lindbergstraße und hinter dem Haus ist ein Parkplatz.
 
 Frau Schmidt: Gefällt Ihnen die Wohnung?
 
-Wang Hongliang: Ja. Wie hoch ist die Miete im Monat.
+Wang Hongliang: Ja. Wie hoch ist die Miete im Monat?
 
 Frau Schmidt: 380 Euro, warm.
 
