@@ -8,19 +8,19 @@ Xiaoming: Was gibt es denn heute?
 
 Thomas: Schnitzel mit Pommes Frites, Schweinebraten mit Klößchen und Rindersteak mit Bratkartoffeln. Und... Was möchtest du gerne?
 
-Xiaoming: Schnizel mit Pommes Frites mag ich sehr. Und dazu nehme ich noch einen Salat.
+Xiaoming: Schnitzel mit Pommes Frites mag ich sehr. Und dazu nehme ich noch einen Salat.
 
-Thomas: Ja,näturlich.
+Thomas: Ja, natürlich.
 
 Xiaoming: Und ich möchte noch eine Zwiebelsuppe als Vorspeise.
 
 Thomas: Die möchte ich auch bestellen.
 
-Kellnerin:Also, was möchten Sie gerne essen?
+Kellnerin: Also, was möchten Sie gerne essen?
 
 Thomas: Wir hätten gerne Schnitzel mit Pommes Frites und Rindersteak mit Bratkartoffeln, zweimal Salat und als Vorspeise zwei Zwiebelsuppen.
 
-Kellnerin:Und was trinken Sie?
+Kellnerin: Und was trinken Sie?
 
 Thomas: Trinkst du Bier, Xiaoming?
 
@@ -32,15 +32,15 @@ Xiaoming: Na gut, trinken wir Bier.
 
 Thomas: Also zwei Bier, bitte!
 
-Kellnerin:Wünschen Sie sonst noch etwas?
+Kellnerin: Wünschen Sie sonst noch etwas?
 
 Thomas: Nein, danke. Das ist alles.
 
-Kellnerin:Bitte schön, Ihre Suppen. Dann wünsche ich Ihnen einen guten Appetit!
+Kellnerin: Bitte schön, Ihre Suppen. Dann wünsche ich Ihnen einen guten Appetit!
 
-Kellnerin:Ihr Schnitzel mit Pommes Frites, Ihr Rindersteak mit Bratkartoffeln und Salat. Guten Appetit.
+Kellnerin: Ihr Schnitzel mit Pommes Frites, Ihr Rindersteak mit Bratkartoffeln und Salat. Guten Appetit.
 
-Thomas: Dannke schön!
+Thomas: Danke schön!
 
 Thomas: Na, dann zum Wohl!
 
@@ -64,19 +64,19 @@ Xiaoming: Nein, danke. Eis mag ich nicht. Bestell dir ruhig eins.
 
 Thomas: Zahlen, bitte!
 
-Kellnerin:Hat es geschmeckt?
+Kellnerin: Hat es geschmeckt?
 
 Thomas: Ja, sehr gut.
 
-Kellnerin:Zahlen Sie getrennt oder zusammen?
+Kellnerin: Zahlen Sie getrennt oder zusammen?
 
 Thomas: Zusammen.
 
-Kellnerin:Das macht zusammen 28,50 Euro.
+Kellnerin: Das macht zusammen 28,50 Euro.
 
 Thomas: Bitte schön, hier sind 30 Euro. Stimmt so.
 
-Kellnerin:Vielen Dank.
+Kellnerin: Vielen Dank.
 
 Xiaoming: Also, Thomas, ich danke dir für das Essen.
 

@@ -14,15 +14,17 @@ Anna: Hallo, Oma! Mama sagt, du hast bald Geburtstag, du bist schon 60, nicht wa
 
 Maria: Ja, mein Schatz, warum fragst du? Hast du etwas vor?
 
-Anna: Mama und Papa planen gerade deine Geburtstagsfeier. Wir machen ei
+Anna: Mama und Papa planen gerade deine Geburtstagsfeier. Wir machen eine Feier für dich!
+Wie findest du das?
 
-Maria: Oh, das ist aber li
+Maria: Oh, das ist aber lieb!
 
 Anna: Ja, einen Moment bitte.
 
 
 
-Lena: Hallo, Mama, wir machen am Samsta
+Lena: Hallo, Mama, wir machen am Samstagabend bei dir eine Geburstagsfeier für dich.
+Was meinst du?
 
 Maria: Ja, gerne! Da habe ich nichts vor.
 
