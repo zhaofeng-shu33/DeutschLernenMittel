@@ -6,7 +6,7 @@ Vor zwei Wochen habe ich TestDaF angemeldet. Am 27. März werde ich die Prüfung
 Note zu bekommen. Die Prüfung besteht auf vier Teile: Lesen, Hören, Schreiben und
 Sprechen. I kann gut lesen und einfache Gespräche verstanden, aber für andere Teile
 habe ich Schwierigkeit. Ich denke, es ist hilfreich, viele mündliche Übungen zu machen und ein deutsches Tagebuch zu führen, um meine entsprechende Sprachkenntnis zu verbessern. Deshalb habe ich dieses deutsche E-Mail geschrieben. Ich frage mich, ob du
-die Prüfung der deutschen Sprache nehmen wirst, zum Beispiel, CET4 oder Goethe-Zertifikat.
+die Prüfung der deutschen Sprache nehmen wirst, zum Beispiel CET4 oder Goethe-Zertifikat.
 
 
 Ich werde am 3. Februar mit meinem Freund Zhang Yu zum Hause gehen.
