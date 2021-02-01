@@ -16,6 +16,6 @@ negative Ergebnisse des Nukleinsäuretests erhalten. In letzter Zeit es gab eini
 Neuinfektionen in Shanghai. Hast du Reise nach Hause vor 
 oder während des Frühlingsfestes in Shanghai bleiben?
 
-Obwohl ich viel zu sagen habe, es ist schon spät. Im nächsten E-Mail will ich über mein Essen in diesen Tagen schreiben. Mit herzlichen Grüßen!
+Obwohl ich viel zu sagen habe, es ist schon spät. Im nächsten E-Mail werde ich über mein Essen in diesen Tagen schreiben. Mit herzlichen Grüßen!
 
 Dein Feng
