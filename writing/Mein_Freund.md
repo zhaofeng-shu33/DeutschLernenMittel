@@ -1,7 +1,10 @@
 # Mein Freund
+Liebe alte Bekannte,
 
-Liebe Leser, ich fühle mich gehrtet, Ihnen meinen guten Freund vorzustellen.
-Sein chinesischer Name ist Xinyi, der auf Deutsch lumineszierendes Gold bedeutet.
+ich denke dir für deine Beantwortung meiner letzten E-Mails. Ich freue mich, dass
+du dich ein interessantes Forschungsgebiet ausgewählt hast, das dir sehr gut gefällt.
+In dieser E-Mail werde ich dir meinen guten Freund vorstellen.
+Sein chinesischer Vorname ist Xinyi, der auf Deutsch leuchtendes Gold bedeutet.
 Er ist lustiger Mensch und bleibt optimistisch auf die Zukunft, während andere Studenten
 für Papiere besorgt sind.
 
@@ -17,11 +20,15 @@ schlecht. Nach mehreren Scheitern hat er großer Durchbruch auf künstlichen Int
 Er hat ein Papier zur akademischen Konferenz eingereicht. Ich glaube, es ist sehr wahrscheinlich,
 dass sein Papier akzeptiert werden kann.
 
-Außer Studium hat er viele Hobbys. Linguistik ist sein Liebling. Ab und zu erzählt er uns
-Geschichte der chinesischen Schrift. Darüber hinaus interessiert er sich für internationale
+Außer Studium hat er viele Hobbys. Chinesische Linguistik ist sein Liebling. Er komme aus Changzhou und spricht gut Wu-Dialekte. Außerdem beherrscht er
+viele andere chinesischen Dialekte. Er sagt, dass manche gegenwärtigen Dialekte Prägung des ehemaligen chinesischen Klangs gespeichert haben. Deshalb Dialekte sind hilfreich für die Forschung der chinesischen Phonologie. Neben Phonologie weiß er viele über chinesischen Schrift,
+vor allem Orakel-Schrift. Ab und zu erzählt er mir
+Geschichte der chinesischen Schrift. Er meint, dass die Bedeutung des chinesisch Wort
+enges Verhältnis mit seiner Schrift und seinem Schall hat.
+Darüber hinaus interessiert er sich für internationale
 Politik, vor allem die demokratische Politik in Taiwan. Er ist auch aktiv auf soziale Medien
 und drückt seine Meinung zu verschieden Themen aus.
 
 Er ist beliebt in unserem Labor, weil er nicht nur an selbst denkt, sondern um die Gruppe kümmert.
 Wenn andere Studenten mathematische oder programmierend Probleme hat, er hilft ihnen ehrlich.
-Außerdem hilft er Professoren, Gruppentreffen zu organisieren. Ich muss sagen, dass mein Freund Xinyi ein freundlicher Student ist. 
+Außerdem hilft er Professoren, Gruppentreffen zu organisieren. Zum Schluss muss ich sagen, dass mein Freund Xinyi ein freundlicher und gelehrter Student ist.
