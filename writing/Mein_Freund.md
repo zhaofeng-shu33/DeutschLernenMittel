@@ -23,7 +23,7 @@ dass sein Papier akzeptiert werden kann.
 Außer Studium hat er viele Hobbys. Chinesische Linguistik ist sein Liebling. Er komme aus Changzhou und spricht gut Wu-Dialekte. Außerdem beherrscht er
 viele andere chinesischen Dialekte. Er sagt, dass manche gegenwärtigen Dialekte Prägung des ehemaligen chinesischen Klangs gespeichert haben. Deshalb Dialekte sind hilfreich für die Forschung der chinesischen Phonologie. Neben Phonologie weiß er viele über chinesischen Schrift,
 vor allem Orakel-Schrift. Ab und zu erzählt er mir
-Geschichte der chinesischen Schrift. Er meint, dass die Bedeutung des chinesisch Wort
+Geschichte der chinesischen Schrift. Er meint, dass die Bedeutung des chinesisch Worts
 enges Verhältnis mit seiner Schrift und seinem Schall hat.
 Darüber hinaus interessiert er sich für internationale
 Politik, vor allem die demokratische Politik in Taiwan. Er ist auch aktiv auf soziale Medien
@@ -32,3 +32,9 @@ und drückt seine Meinung zu verschieden Themen aus.
 Er ist beliebt in unserem Labor, weil er nicht nur an selbst denkt, sondern um die Gruppe kümmert.
 Wenn andere Studenten mathematische oder programmierend Probleme hat, er hilft ihnen ehrlich.
 Außerdem hilft er Professoren, Gruppentreffen zu organisieren. Zum Schluss muss ich sagen, dass mein Freund Xinyi ein freundlicher und gelehrter Student ist.
+
+In den vergangenen Jahren hast du noch neue gute Freundin getroffen? Bitte schreib mir.
+
+Mit freundlichen Grüßen
+
+Euer Feng
