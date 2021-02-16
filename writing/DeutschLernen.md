@@ -18,4 +18,7 @@ Außerdem lese und höre ich viel. Von der Bibliothek leihe ich einige Bücher a
 zum Beispiel, Lehrbuch verlegt von Tongji-Universität und andere Übungshefte TestDaF.
 Ich habe mich auch logo.de, eine Sendung der Kindernachrichten, angesehen, um meine Hörfähigkeit
 zu verbessern. Ich nehme oft Diktate der deutschen Texte und korrigiere meine Fehler je nach
-dem Vergleich
+dem Vergleich mit originellem Text. Nach und nach verstehe ich die Gespräche besser.
+
+Natürlich brauche ich ein elektronisches Wörterbuch, um unbekanntes Wort schnell zu finden. 
+Ich hoffe, an der Sprachprüfung gute Note bekommen. Deshalb bemühe ich mich, Deutsch zu lernen.
