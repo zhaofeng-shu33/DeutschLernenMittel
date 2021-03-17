@@ -23,4 +23,16 @@ Auch manche Produkte kann ich auf nahe Geschäfte nicht finden.
 In der Diskussion um Online-Shopping lassen sich nun zwei gegensätzliche Meinungen
 voneinander unterscheiden. Auf der einen Seite, die Vorteile des Online-Shopping
 liegt darin, dass man mit liebsten Zahlungsart jederzeit Produkte aus der ganzen Welt kaufen kann.
-Auf der anderen Seite, 
+Auf der anderen Seite, manche Leute denken, dass Online-Shopping risikoreich ist, weil
+die gekauften Waren nicht sofort vor der Tür stehen.
+
+Meiner Meinung nach ist Online-Shopping ein Trend der Zukunft. Immer mehr junge Menschen
+kaufen was sie benötigt im Internet. Deshalb wird Zeit gespart. Außerdem kann man Preis
+des gleichen Produkts vergleichen, um ein billigeres zu nehmen. Darüber hinaus ist es möglich,
+gute Produkte des Auslands zu ordern. Das macht unser Leben vielfältig.
+Auch die Probleme der Sicherheit werden gelöst, als elektronische Handels sich mehr um die Kunden kümmern. Ich glaube, dass der Transport des Produkts beschleunigen wird, so dass der Kunde
+in kürzerer Zeit das gekaufte Produkte in den Händen halten.
+
+Im meinem Heimatland ist die Situation ähnlich wie in Deutschland. Wir bestellen Karten im Internet vor dem Fahren. Doch für alte Leute das Bargeld vorgezogen wird.
+Das Online-Shopping wird bezahlt meistens durch Wechat oder Alipay. Aber wir benutzen Kreditkarte selten.
+Wichtig ist, dass alles die Annehmlichkeit des Online-Shoppings genießen können.
